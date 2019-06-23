@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\01_Variables\bin\Debug\01_Variables.exe.config
+C:\Coding\VBFundies\VBFundamentals\01_Variables\bin\Debug\01_Variables.exe
+C:\Coding\VBFundies\VBFundamentals\01_Variables\bin\Debug\01_Variables.pdb
+C:\Coding\VBFundies\VBFundamentals\01_Variables\bin\Debug\01_Variables.xml
+C:\Coding\VBFundies\VBFundamentals\01_Variables\obj\Debug\01_Variables.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\01_Variables\obj\Debug\_01_Variables.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\01_Variables\obj\Debug\01_Variables.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\01_Variables\obj\Debug\01_Variables.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\01_Variables\obj\Debug\01_Variables.exe
+C:\Coding\VBFundies\VBFundamentals\01_Variables\obj\Debug\01_Variables.xml
+C:\Coding\VBFundies\VBFundamentals\01_Variables\obj\Debug\01_Variables.pdb
