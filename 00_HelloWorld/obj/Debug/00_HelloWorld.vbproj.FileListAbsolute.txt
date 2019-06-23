@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\bin\Debug\00_HelloWorld.exe.config
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\bin\Debug\00_HelloWorld.exe
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\bin\Debug\00_HelloWorld.pdb
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\bin\Debug\00_HelloWorld.xml
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\obj\Debug\00_HelloWorld.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\obj\Debug\_00_HelloWorld.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\obj\Debug\00_HelloWorld.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\obj\Debug\00_HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\obj\Debug\00_HelloWorld.exe
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\obj\Debug\00_HelloWorld.xml
+C:\Coding\VBFundies\VBFundamentals\00_HelloWorld\obj\Debug\00_HelloWorld.pdb
