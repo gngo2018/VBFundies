@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\bin\Debug\03_ForLoop.exe.config
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\bin\Debug\03_ForLoop.exe
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\bin\Debug\03_ForLoop.pdb
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\bin\Debug\03_ForLoop.xml
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\obj\Debug\03_ForLoop.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\obj\Debug\_03_ForLoop.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\obj\Debug\03_ForLoop.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\obj\Debug\03_ForLoop.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\obj\Debug\03_ForLoop.exe
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\obj\Debug\03_ForLoop.xml
+C:\Coding\VBFundies\VBFundamentals\03_ForLoop\obj\Debug\03_ForLoop.pdb

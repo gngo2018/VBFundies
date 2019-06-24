@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\bin\Debug\02_Conditionals.exe.config
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\bin\Debug\02_Conditionals.exe
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\bin\Debug\02_Conditionals.pdb
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\bin\Debug\02_Conditionals.xml
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\obj\Debug\02_Conditionals.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\obj\Debug\_02_Conditionals.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\obj\Debug\02_Conditionals.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\obj\Debug\02_Conditionals.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\obj\Debug\02_Conditionals.exe
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\obj\Debug\02_Conditionals.xml
+C:\Coding\VBFundies\VBFundamentals\02_Conditionals\obj\Debug\02_Conditionals.pdb

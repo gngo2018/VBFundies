@@ -5,7 +5,7 @@
         'Dim = Dimension, must use decimal to return exact decimal
         Dim x As Integer = 24
         Dim y As Integer = x + 14
-        Dim a As Integer = 0
+        Dim a As Integer
         Dim sampleString As String = "George"
         'Can be "lazy" declaring variables, but should follow above to write clear code
         Dim q = 12 + y
@@ -19,8 +19,8 @@
         'If you want to display string saying and int, must convert the variable to str before
         Console.WriteLine("What number would you like to add to " + CStr(x) + "?")
         a = CInt(Console.ReadLine())
-
         Dim add As Integer = x + a
+
         Console.WriteLine("Hello " + newString + "! You're answer is: " + CStr(add))
 
         Console.ReadLine()
