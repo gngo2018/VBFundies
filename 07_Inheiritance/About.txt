@@ -1,0 +1,1 @@
+﻿The following module gives examples about the use of Inheritance and Abstraction in regards to a vehicle to car and truck relationship

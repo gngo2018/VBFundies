@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\05_Methods\bin\Debug\05_Methods.exe.config
+C:\Coding\VBFundies\VBFundamentals\05_Methods\bin\Debug\05_Methods.exe
+C:\Coding\VBFundies\VBFundamentals\05_Methods\bin\Debug\05_Methods.pdb
+C:\Coding\VBFundies\VBFundamentals\05_Methods\bin\Debug\05_Methods.xml
+C:\Coding\VBFundies\VBFundamentals\05_Methods\obj\Debug\_05_Methods.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\05_Methods\obj\Debug\05_Methods.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\05_Methods\obj\Debug\05_Methods.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\05_Methods\obj\Debug\05_Methods.exe
+C:\Coding\VBFundies\VBFundamentals\05_Methods\obj\Debug\05_Methods.xml
+C:\Coding\VBFundies\VBFundamentals\05_Methods\obj\Debug\05_Methods.pdb
+C:\Coding\VBFundies\VBFundamentals\05_Methods\obj\Debug\05_Methods.vbprojAssemblyReference.cache

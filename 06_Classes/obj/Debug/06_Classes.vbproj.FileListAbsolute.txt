@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\06_Classes\bin\Debug\06_Classes.exe.config
+C:\Coding\VBFundies\VBFundamentals\06_Classes\bin\Debug\06_Classes.exe
+C:\Coding\VBFundies\VBFundamentals\06_Classes\bin\Debug\06_Classes.pdb
+C:\Coding\VBFundies\VBFundamentals\06_Classes\bin\Debug\06_Classes.xml
+C:\Coding\VBFundies\VBFundamentals\06_Classes\obj\Debug\06_Classes.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\06_Classes\obj\Debug\_06_Classes.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\06_Classes\obj\Debug\06_Classes.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\06_Classes\obj\Debug\06_Classes.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\06_Classes\obj\Debug\06_Classes.exe
+C:\Coding\VBFundies\VBFundamentals\06_Classes\obj\Debug\06_Classes.xml
+C:\Coding\VBFundies\VBFundamentals\06_Classes\obj\Debug\06_Classes.pdb

@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\bin\Debug\04_Arrays.exe.config
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\bin\Debug\04_Arrays.exe
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\bin\Debug\04_Arrays.pdb
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\bin\Debug\04_Arrays.xml
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\obj\Debug\04_Arrays.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\obj\Debug\_04_Arrays.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\obj\Debug\04_Arrays.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\obj\Debug\04_Arrays.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\obj\Debug\04_Arrays.exe
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\obj\Debug\04_Arrays.xml
+C:\Coding\VBFundies\VBFundamentals\04_Arrays\obj\Debug\04_Arrays.pdb

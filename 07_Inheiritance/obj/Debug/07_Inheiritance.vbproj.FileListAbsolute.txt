@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\bin\Debug\07_Inheiritance.exe.config
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\bin\Debug\07_Inheiritance.exe
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\bin\Debug\07_Inheiritance.pdb
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\bin\Debug\07_Inheiritance.xml
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\obj\Debug\07_Inheiritance.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\obj\Debug\_07_Inheiritance.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\obj\Debug\07_Inheiritance.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\obj\Debug\07_Inheiritance.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\obj\Debug\07_Inheiritance.exe
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\obj\Debug\07_Inheiritance.xml
+C:\Coding\VBFundies\VBFundamentals\07_Inheiritance\obj\Debug\07_Inheiritance.pdb
