@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\10_Collections\bin\Debug\10_Collections.exe.config
+C:\Coding\VBFundies\VBFundamentals\10_Collections\bin\Debug\10_Collections.exe
+C:\Coding\VBFundies\VBFundamentals\10_Collections\bin\Debug\10_Collections.pdb
+C:\Coding\VBFundies\VBFundamentals\10_Collections\bin\Debug\10_Collections.xml
+C:\Coding\VBFundies\VBFundamentals\10_Collections\obj\Debug\10_Collections.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\10_Collections\obj\Debug\_10_Collections.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\10_Collections\obj\Debug\10_Collections.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\10_Collections\obj\Debug\10_Collections.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\10_Collections\obj\Debug\10_Collections.exe
+C:\Coding\VBFundies\VBFundamentals\10_Collections\obj\Debug\10_Collections.xml
+C:\Coding\VBFundies\VBFundamentals\10_Collections\obj\Debug\10_Collections.pdb

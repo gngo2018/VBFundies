@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\bin\Debug\09_SelectCase.exe.config
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\bin\Debug\09_SelectCase.exe
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\bin\Debug\09_SelectCase.pdb
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\bin\Debug\09_SelectCase.xml
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\obj\Debug\09_SelectCase.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\obj\Debug\_09_SelectCase.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\obj\Debug\09_SelectCase.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\obj\Debug\09_SelectCase.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\obj\Debug\09_SelectCase.exe
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\obj\Debug\09_SelectCase.xml
+C:\Coding\VBFundies\VBFundamentals\09_SelectCase\obj\Debug\09_SelectCase.pdb

@@ -1,0 +1,11 @@
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\bin\Debug\CSharpChallengeConversion.exe.config
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\bin\Debug\CSharpChallengeConversion.exe
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\bin\Debug\CSharpChallengeConversion.pdb
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\bin\Debug\CSharpChallengeConversion.xml
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\obj\Debug\CSharpChallengeConversion.vbprojAssemblyReference.cache
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\obj\Debug\CSharpChallengeConversion.Resources.resources
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\obj\Debug\CSharpChallengeConversion.vbproj.GenerateResource.cache
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\obj\Debug\CSharpChallengeConversion.vbproj.CoreCompileInputs.cache
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\obj\Debug\CSharpChallengeConversion.exe
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\obj\Debug\CSharpChallengeConversion.xml
+C:\Coding\VBFundies\VBFundamentals\CSharpChallengeConversion\obj\Debug\CSharpChallengeConversion.pdb
